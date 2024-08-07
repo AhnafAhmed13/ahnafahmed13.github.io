@@ -1,5 +1,5 @@
 
-![headshot](Images/Ahnaf_Ahmed_headshot.jpg)
+[<img src='Images/Ahnaf_Ahmed_headshot.jpg' alt='headshot' width='200'/>](Images/Ahnaf_Ahmed_headshot.jpg)
 
 ## 😃 About Me
 
