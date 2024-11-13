@@ -12,7 +12,7 @@ Hi there! I'm **Ahnaf**, an aspiring `Software Engineer` and `Web Developer`. I'
 
 ## 📄 Resume
 
-- [Resume](Resources/Ahnaf_Ahmed_Resume_8_24.pdf)
+- [Resume](./Resources/Ahnaf_Ahmed_Resume_11_24.pdf)
 
 ## 📫 Contact Me
 
